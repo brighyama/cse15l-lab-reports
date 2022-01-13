@@ -2,8 +2,11 @@
 **Bold text**
 # This is a heading
 ## This is a smaller heading
+
 [Link](http://a.com)
+
 ![Image](http://url/a.png)
+
 > Block of text
 * item 1
 * item 2
@@ -12,8 +15,8 @@
 2. item 2
 3. item 3
 ---
-'inline code'
-'''
+`inline code`
+```
 code 
 block
-'''
+```
