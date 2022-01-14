@@ -4,7 +4,7 @@ Brighten Hayama (A16906699)
 ## Part 1 - Installing VScode:
 ![Image](./screenshots/part1-vscodeSetup.PNG)
 
-* Went to https://code.visualstudio.com/
+* Went to [https://code.visualstudio.com/](https://code.visualstudio.com/)
 * Completed installation and opened the main screen above
 
 <br/><br/>
@@ -12,7 +12,7 @@ Brighten Hayama (A16906699)
 ## Part 2 - Remotely Connecting:
 ![Image](./screenshots/part2-RemotelyConnecting.PNG)
 
-* `$ ssh cs15lwi22anq@ieng6.ucsd.edu`
+* `$ ssh cs15lwi22anq@ieng6.ucsd.edu` - This should be a course-specific account, with last 3 letters "anq" unique to each person
 * Enter password when prompted (this text doesn't show in the terminal)
 * This connects client to the remote server
 
@@ -34,7 +34,7 @@ Brighten Hayama (A16906699)
 ![Image](./screenshots/part4-scpFile.PNG)
 
 * Here, I compiled and ran a java file locally
-* I then used `scp` on my client to move the file onto the remote server
+* I then used `scp` on my client to move the file onto the remote server.
 
 ![Image](./screenshots/part4-runningRemote.PNG)
 
