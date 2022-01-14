@@ -48,7 +48,8 @@ Brighten Hayama (A16906699)
 
 * Needed to use admin powershell for permissions
 * Created a public and private key with `ssh-keygen`
-* Securely stored the private key with, and copied the public key onto .ssh directory
+* Securely stored the private key, and copied the public key onto .ssh directory
+* The commands for setting ssh key on windows was found [here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
 
 
 ![Image](./screenshots/part5-workingSSH.PNG)
