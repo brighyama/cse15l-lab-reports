@@ -12,7 +12,7 @@ Brighten Hayama (A16906699)
 ## Part 2 - Remotely Connecting:
 ![Image](./screenshots/part2-RemotelyConnecting.PNG)
 
-* `$ ssh cs15lwi22anq@ieng6.ucsd.edu` - This should be a course-specific account, with last 3 letters "anq" unique to each person
+* `$ ssh cs15lwi22anq@ieng6.ucsd.edu` - This should be a course-specific account, with last 3 letters "anq" unique to me
 * Enter password when prompted (this text doesn't show in the terminal)
 * This connects client to the remote server
 
