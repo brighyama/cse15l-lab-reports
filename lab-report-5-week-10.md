@@ -13,7 +13,7 @@ Test file:
 
 Diff outputs:
 
-![Image](./screenshots/report5/outputs1.PNG)
+![Image](./screenshots/report5/diff1.PNG)
 
 * The given implementation produced the correct output because the test file includes a line break in the parentheses. So the correct output should be an empty array. My code added the contents, including the line break, to the returned array.
 
@@ -29,7 +29,7 @@ Test file:
 
 Diff outputs:
 
-![Image](./screenshots/report5/outputs2.PNG)
+![Image](./screenshots/report5/diff2.PNG)
 
 * My implementation produced the correct output. The test file contains an image extension ".jpg", which is not considered a valid link, so the correct output is an empty array. The given implementation doesn't check for image extensions before returning, so it returned "moon.jpg" in the array.
 
