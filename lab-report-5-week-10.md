@@ -1,7 +1,7 @@
 Brighten Hayama (A16906699)
 # **CSE15L Lab Report 5 - Week 10** 
 
-* I found differences in my implemenation and the provided implementation using
+* I found differences in my implementation and the provided implementation using
  `diff markdown-parse-lab9/markdown-parse-main/results.txt my-markdown-parse/results.txt` in the terminal, which finds differences in each file named results.txt. This command listed out the line numbers of the different outputs of markdown parse, so I navigated to each file in the terminal and used `vim results.txt` to locate these line numbers and the test files that produced that output.
 
 ## Diff 1: Test 489
